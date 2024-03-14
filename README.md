@@ -3,8 +3,10 @@
 <h3 align="center">As a third-year student at SRMIST with a strong proficiency in coding, specialized training in machine learning algorithms, and a demonstrated ability to take on leadership responsibilities, I am committed to furthering my knowledge, honing my skills, and leveraging my leadership abilities to contribute effectively in the field of technology.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gk9516&label=Profile%20views&color=0e75b6&style=flat" alt="gk9516" /> </p>
 
-- 🌱 I’m currently learning **Flask, React and Node**
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gk9516&theme=" alt="gk9516" /></a> </p>
+
+- 🌱 I’m currently learning **Flask, React and Node**
 - 📫 How to reach me **ganeshrajan2.00@gmail.com**
 - ⚡ Fun fact **I think I am a Good Coder**
 
@@ -38,8 +40,6 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/tensorflow-icon.svg" alt="Tensorflow" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/pytorch-icon.svg" alt="Pytorch" width="40" height="40"/>
 </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gk9516&theme=" alt="gk9516" /></a> </p>
 
 
 <h3 align="left">Stars</h3>
