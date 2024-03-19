@@ -1,4 +1,3 @@
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm Ganesh </h1>
 <h3 align="center">As a third-year student at SRMIST with a strong proficiency in coding, specialized training in machine learning algorithms, and a demonstrated ability to take on leadership responsibilities, I am committed to furthering my knowledge, honing my skills, and leveraging my leadership abilities to contribute effectively in the field of technology.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gk9516&label=Profile%20views&color=0e75b6&style=flat" alt="gk9516" /> </p>
