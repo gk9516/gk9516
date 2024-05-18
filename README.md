@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gk9516&label=Profile%20views&color=0e75b6&style=flat" alt="gk9516" /> </p>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gk9516&theme=algolia alt="gk9516" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gk9516&theme=algolia&rank=-C&title=MultiLanguage,Commits,Repositories,Experience" alt="gk9516" /></a> </p>
 
 - 🌱 I’m currently learning **Flask, React and Node**
 - 📫 How to reach me **ganeshrajan2.00@gmail.com**
@@ -44,8 +44,6 @@
 <h3 align="left">Stars</h3>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gk9516&layout=compact&theme=" alt=gk9516 />
 
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=gk9516&show_icons=true&locale=en&theme=" alt="gk9516" /></p>
-
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=gk9516&theme=" alt="gk9516" /></p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
@@ -59,3 +57,8 @@
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=gk9516&theme=default"/>
+  
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/gk9516/gk9516/output/snake.svg" alt="Snake animation" />
+
