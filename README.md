@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gk9516&label=Profile%20views&color=0e75b6&style=flat" alt="gk9516" /> </p>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gk9516&theme=algolia&rank=-C&title=MultiLanguage,Commits,Repositories,Experience" alt="gk9516" /></a> </p>
+<p align="right"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gk9516&theme=algolia&rank=-C&title=MultiLanguage,Commits,Repositories,Experience" alt="gk9516" /></a> </p>
 
 - 🌱 I’m currently learning **Flask, React and Node**
 - 📫 How to reach me **ganeshrajan2.00@gmail.com**
