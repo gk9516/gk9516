@@ -5,7 +5,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gk9516&theme=algolia&rank=-C&title=MultiLanguage,Commits,Repositories,Experience" alt="gk9516" /></a> </p>
 
-- 🌱 I’m currently learning **Flask, React and Node**
+- 🌱 I’m currently learning **Django, React and Node**
 - 📫 How to reach me **ganeshrajan2.00@gmail.com**
 - ⚡ Fun fact **I think I am a Good Coder**
 
