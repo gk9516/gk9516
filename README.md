@@ -27,7 +27,7 @@
 
 
 <h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gk9516&layout=compact&theme=" alt=gk9516 />
+<!--<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gk9516&layout=compact&theme=" alt=gk9516 /> -->
 
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=gk9516&theme=" alt="gk9516" /></p>
 
