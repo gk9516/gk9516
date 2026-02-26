@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ganesh </h1>
-<h3 align="center">As a Final-year student at SRMIST with a strong proficiency in coding, specialized training in machine learning algorithms, and a demonstrated ability to take on leadership responsibilities, I am committed to furthering my knowledge, honing my skills, and leveraging my leadership abilities to contribute effectively in the field of technology.</h3>
+<h3 align="center">Currently working as a technology professional at TCS, with strong proficiency in coding, hands-on experience in data analytics, and focused upskilling in machine learning and Generative AI, I am committed to continuously advancing my expertise, building impactful AI-driven solutions, and leveraging my leadership and project execution abilities to drive meaningful innovation in the technology domain.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gk9516&label=Profile%20views&color=0e75b6&style=flat" alt="gk9516" /> </p>
 
 
